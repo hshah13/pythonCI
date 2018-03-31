@@ -1,5 +1,5 @@
 def print_hello():
-    for _ in range(20):
+    for _ in range(2):
         print 'hello f5ers!'
         
         
